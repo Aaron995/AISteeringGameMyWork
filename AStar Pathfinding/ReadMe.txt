@@ -1,0 +1,2 @@
+This A* version was provided by another developer in this project but 
+I merged some of my A* logic in here to futher optimize the pathfinding and made it more generic since his version was very restricted.
